@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU.txt}{teaching.html}, nofooter  
+==Kaushik Shankar - Teaching
+
+I have remained dedicated to teaching and enjoy interacting with and helping students. I have been a teaching assistant for the following courses, which have required me to constantly think about my approach to teaching and the steps I take to help students learn. I have compiled these approaches by developing a statement of [Teaching_Statement.pdf teaching philosophy].  
+
+[https://drive.google.com/file/d/1WJ3xqrP3uOwsg8lnj3uPR3yv70qFUVl-/view?usp=sharing Student Testimonial]
+
+== ENM 502: Numerical Methods and Modeling
+
+Instructor: Talid R. Sinno
+
+Course Outline: This course provides an advanced introduction to various numerical methods for solving systems of algebraic equations (linear and non-linear) and differential equations (ordinary and partial). Techniques covered include Newton's method, implicit and explicit time stepping, and the finite difference and finite element methods. The MATLAB software package will be used to implement the various methods and execute representative calculations.
+
+== CBE 640: Advanced Transport Phenomena
+
+Instructor: Talid R. Sinno
+
+Course Outline: This course provides a unified introduction to momentum, energy (heat), and mass transport processes. The basic mechanisms and constitutive laws for the various transport processes will be delineated, and the conservation equations will be derived and applied to internal and external flows. Examples from mechanical, chemical, and biological systems will be used to illustrate fundamental concepts and mathematical methods.
+
+== CS 213x: Data Structures and Algorithms
+
+Instructors: Ajit A. Diwan and Deepak B. Phatak
+
+Course Outline: Introduction to data structures, abstract data types, analysis of algorithms. Creation and manipulation of data structures: arrays, lists, stacks, queues, trees, heaps, hash tables, balanced trees, tries, graphs. Algorithms for sorting and searching, order statistics, depth-first and breadth-first search, shortest paths and minimum spanning tree.
+
+== CS 101x: Computer Programming and Utilization
+
+Instructors: Supratik Chakraborty and Deepak B. Phatak
+
+Course Outline: This course provides students with an entry-level foundation in computer programming. The goals of the course are to develop the programming ability in students, and to improve their proficiency in applying the computing fundamentals to their field of study. Topics include overview of high-level languages, introduction to C/C\+\+ libraries, basic data types, function definitions and declarations, conditional and iteration statement, array and string manipulation, recursive programming, introduction to searching and sorting and introduction to structures and pointers.
+

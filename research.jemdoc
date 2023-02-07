@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU.txt}{research.html}, nofooter  
+==Kaushik Shankar - Research
+
+== Patient-Specific Multiscale Modeling of Platelet Aggregation Under Flow
+
+I am developing a robust and efficiently parallelizable multiscale model for thrombus formation in patient-specific vasculatures. The model accounts for changes in blood flow as the platelet deposit grows in size, the motion of platelets within the blood flow, and the release of soluble platelet agonists. The blood flow field is computed using the Lattice-Boltzmann method and the activation and binding of platelets are characterized using a patient-specific neural network and a kinetic Monte Carlo module. Platelet agonist species concentrations are modeled using the finite volume method. 
+
+

@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU.txt}{contact.html}, nofooter  
+==Kaushik Shankar -- Contact
+
+Kaushik Shankar \n
+3340 Smith Walk \n
+Room 5005, Roy and Diana Vagelos Research Laboratories \n
+Institute for Medicine and Engineering \n
+University of Pennsylvania \n
+Philadelphia, PA 19104 \n
+Tel: +1 (215) 746-4571 \n
+Email: [mailto:kshankar@seas.upenn.edu kshankar@seas.upenn.edu] \n
+
+~~~
+{}{raw}
+<a href="https://twitter.com/kaushiknags" class="twitter-follow-button">Follow @KaushikNags</a>
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+'script', 'twitter-wjs');</script>
+
+<a href="https://linkedin.com/in/kaushikshankar">
+  <img src="linkedin.png" style="width:25px;height:25px;border:0;">
+</a>
+
+<br>
+<br>
+<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.5568832069716!2d-75.19431468480502!3d39.95130039173821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c65af6ad387b%3A0x2e3c6bc25d43bc91!2s3340%20Smith%20Walk%20Roy%20and%20Diana%20Vagelos%20Laboratories%2C%20Philadelphia%2C%20PA%2019104%2C%20USA!5e0!3m2!1sen!2sin!4v1577824731500!5m2!1sen!2sin" width="450" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+~~~
